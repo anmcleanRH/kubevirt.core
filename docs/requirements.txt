@@ -6,3 +6,4 @@ ansible-pygments
 sphinx-rtd-theme
 git+https://github.com/felixfontein/ansible-basic-sphinx-ext
 myst-parser
+aiohttp>=3.13.3 # not directly required, pinned by Snyk to avoid a vulnerability
